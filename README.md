@@ -13,16 +13,14 @@ Regular users can log in, view, and manage their own tasks.
 
 # How to Run
 Link to repo : https://github.com/Mxolisi619/task-manager-admin-python
-Run the program:
-python task_manager.py
+
+Run the program: python task_manager.py
 
 Make sure user.txt and tasks.txt are in the same directory (these files will be created on first use if not present).
 
-Example Usernames (for Testing)
-
-Username: admin
-
-Password: Admin@123 (or whatever you set)
+Example Usernames (for Testing):
+- Username: admin
+- Password: Admin@123 (or whatever you set)
 
 Skills Demonstrated
 - Python CLI interaction
